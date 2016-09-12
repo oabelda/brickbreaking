@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89623f3ab6a78e24a99a57f370298695
+timeCreated: 1438685735
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - youWon: {instanceID: 0}
+  - gameEnded: {instanceID: 0}
+  - paddle: {instanceID: 0}
+  - deathExplosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

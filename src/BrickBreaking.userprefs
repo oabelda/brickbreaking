@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\oabelda\Documents\Proyectos Unity3D\ForkLift Demo\Assets\_Scripts\_Utilities\dataRecorder.cs">
+    <Files>
+      <File FileName="..\..\..\..\oabelda\Documents\Proyectos Unity3D\ForkLift Demo\Assets\_Scripts\_Utilities\QuitController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\oabelda\Documents\Proyectos Unity3D\ForkLift Demo\Assets\_Scripts\_Utilities\Unapplied\TinCanHelper.cs" Line="92" Column="141" />
+      <File FileName="..\..\..\..\oabelda\Documents\Proyectos Unity3D\ForkLift Demo\Assets\_Scripts\_Utilities\dataRecorder.cs" Line="147" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
