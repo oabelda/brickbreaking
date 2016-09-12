@@ -3,6 +3,9 @@
 Un pequeño juego de arcade de brick breaking clásico, con 5 niveles.
 Release para standalone, se controla con las flechas de dirección o wasd.
 
+# Capturas
+Dejo un par de capturas en la raiz del directorio.
+
 # About 
 Desarrollado únicamente con intenciones de entretenimiento y probar algunas características.
 
